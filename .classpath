@@ -6,5 +6,7 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/Users/user/git/MavenDependencyParser/lib/json-20170516.jar"/>
+	<classpathentry kind="lib" path="D:/Users/user/git/MavenDependencyParser/lib/commons-io-2.5.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
